@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application 1</string>
+    <string name="violet">Violet</string>
+    <string name="indigo">Indigo</string>
+    <string name="green">green</string>
+    <string name="yellow">yellow</string>
+    <string name="orange">orange</string>
+    <string name="red">Red</string>
+    <string name="blue">blue</string>
+    <string name="button1">Button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="button4">button4</string>
+    <string name="i_love_android">I LOVE ANDROID</string>
+</resources>
